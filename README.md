@@ -2,7 +2,7 @@
 
 ## What's this? 🤔
 
-Hi there 👋! This is a landing page for HooBank, a fictional app whose gorgeous design was created by [@adrianhajdin](https://github.com/adrianhajdin) and completed by their community over at [Figma](https://www.figma.com/).
+Hi there 👋! This is a landing page for HooBank, a fictional app whose gorgeous design was created by [@adrianhajdin](https://github.com/wendyhotdog) and completed by their community over at [Figma](https://www.figma.com/).
 
 ### Tools used 🧰
 
@@ -14,7 +14,7 @@ Hi there 👋! This is a landing page for HooBank, a fictional app whose gorgeou
 - [Chrome](https://www.google.com/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-### [Live Preview 🎨](https://hoobank-rwxdan.vercel.app/)
+### [Live Preview 🎨](https://hoobank-wendyhotdog.vercel.app/)
 
 ### ⚠ Warning ⚠
 
@@ -27,4 +27,4 @@ The `backdrop-filter: blur()` effect makes the colors look really off on Firefox
 
 ---
 
-Credits to [@adrianhajdin](https://github.com/adrianhajdin) and their community for the design and specs.
+Credits to [@adrianhajdin](https://github.com/wendyhotdog) and their community for the design and specs.
