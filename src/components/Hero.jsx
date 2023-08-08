@@ -22,7 +22,7 @@ const Hero = () => {
 
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="ha-1 flex-1 font-poppins font-semibold ss:text-[72px] text-[48px] text-white ss:leading-[1.25em] leading-[75px] mt-4">
-            The Next
+            No more 
             <br />
             <span className="ha-2 text-gradient">Generation</span>
             <br />
