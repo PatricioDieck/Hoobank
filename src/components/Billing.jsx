@@ -11,13 +11,10 @@ const Billing = () => {
       </div>
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          Easily control your <br className="sm:block hidden" /> billing &
-          invoicing.
+          Your New <br className="sm:block hidden" />  Biggest Advocate
         </h2>
         <p className={`${styles.paragraph} max-w-[29.375rem] mt-5`}>
-          Elit enim sed massa etiam. Mauris eu adispicing ultrices ametodio
-          oenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-          placerat.
+        MaestroMentor is an AI band director that is on 24/7, has complete knowledge of anything Conn-Selmer related. Best of all? It's friendly, dynamic and can answer any question about music, practicing and band. 
         </p>
 
         <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

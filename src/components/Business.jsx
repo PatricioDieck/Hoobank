@@ -27,13 +27,11 @@ const Business = () => {
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
         <h2 className={`${styles.heading2}`}>
-          You do the business, <br className="sm:block hidden" />
-          we'll handle the money.
+          Ultimate sales? <br className="sm:block hidden" />
+          mentorship and outreach.
         </h2>
         <p className={`${styles.paragraph} max-w-[29.375rem] mt-5 leading-8`}>
-          With the right credit card, you can improve your financial life by
-          building credit, earning rewards and saving money. But with hundreds
-          of credit cards on the market.
+          With MaestroMentor, every step of the instrument transaction process is improved for every stakeholder involved.
         </p>
 
         <Button styles="mt-10" />

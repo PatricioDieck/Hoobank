@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Band Student",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "is confused on what instrument to purchase, or even choose for that matter. Doesn’t have any knowledge and is afraid to ask questions that may make him seem stupid.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Band Parent",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Overwhelmed by hundred of instruments at varying price points, the parent is confused at which to get, and reluctant to spending $2,000 on an instrument they barely know exists. ",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Selmer",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Loses out on important sales as beginners have too many instrument options and no guidance. Needs to hire expensive representatives as a remedial fix to this problem, but representatives fail to reach pre-band, beginner students.",
   },
 ];
 
@@ -88,18 +88,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "Users Active",
-    value: "3800+",
+    title: "Mentorship",
+    value: "24/7",
   },
   {
     id: "stats-2",
-    title: "Companies trust us",
-    value: "230+",
+    title: "Instruments",
+    value: "Selmer",
   },
   {
     id: "stats-3",
-    title: "Transactions",
-    value: "$230M+",
+    title: "Outreach",
+    value: "Incredible",
   },
 ];
 
